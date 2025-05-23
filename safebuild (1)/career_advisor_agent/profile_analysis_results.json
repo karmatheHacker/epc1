@@ -1,0 +1,140 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "technical",
+      "level": "advanced",
+      "years_experience": 7.0
+    },
+    {
+      "name": "JavaScript",
+      "category": "technical",
+      "level": "advanced",
+      "years_experience": 6.0
+    },
+    {
+      "name": "TypeScript",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 3.0
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 5.0
+    },
+    {
+      "name": "Django",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 4.0
+    },
+    {
+      "name": "Flask",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 4.0
+    },
+    {
+      "name": "React",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 4.0
+    },
+    {
+      "name": "Angular",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 4.0
+    },
+    {
+      "name": "Express.js",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 2.0
+    },
+    {
+      "name": "AWS",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 3.0
+    },
+    {
+      "name": "Google Cloud Platform",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 2.0
+    },
+    {
+      "name": "Git",
+      "category": "technical",
+      "level": "advanced",
+      "years_experience": 7.0
+    },
+    {
+      "name": "Docker",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 3.0
+    },
+    {
+      "name": "Kubernetes",
+      "category": "technical",
+      "level": "beginner",
+      "years_experience": 1.0
+    },
+    {
+      "name": "Jenkins",
+      "category": "technical",
+      "level": "beginner",
+      "years_experience": 1.0
+    },
+    {
+      "name": "GitHub Actions",
+      "category": "technical",
+      "level": "intermediate",
+      "years_experience": 2.0
+    },
+    {
+      "name": "Team leadership",
+      "category": "soft",
+      "level": "advanced",
+      "years_experience": 3.0
+    },
+    {
+      "name": "Mentoring",
+      "category": "soft",
+      "level": "advanced",
+      "years_experience": 3.0
+    },
+    {
+      "name": "Communication",
+      "category": "soft",
+      "level": "advanced",
+      "years_experience": 7.0
+    },
+    {
+      "name": "Problem-solving",
+      "category": "soft",
+      "level": "advanced",
+      "years_experience": 7.0
+    }
+  ],
+  "experience_level": "senior",
+  "career_progression": "Steady advancement in software engineering roles, moving from Software Engineer to Senior Software Engineer, with increasing responsibilities and leadership roles.",
+  "strengths": [
+    "Strong technical expertise in full-stack development",
+    "Proven leadership and mentoring abilities",
+    "Effective in improving system reliability and deployment efficiency",
+    "Solid experience with modern development tools and practices"
+  ],
+  "weaknesses": [
+    "Limited experience with Kubernetes and Jenkins",
+    "Potential need for deeper expertise in cloud technologies",
+    "Could benefit from further development in TypeScript",
+    "May need to enhance skills in legacy system maintenance"
+  ],
+  "career_trajectory": "With 7 years of experience and a strong foundation in full-stack development, Alex is well-positioned for roles such as Lead Software Engineer or Engineering Manager. Future paths may include specializing in cloud architecture or advancing into technical leadership positions.",
+  "education_relevance": "The Bachelor of Science in Computer Science is highly relevant, providing a strong theoretical foundation and practical skills that align well with Alex's professional experience in software engineering."
+}
